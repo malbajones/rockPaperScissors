@@ -2,7 +2,7 @@
 const game = ["rock", "paper", "scissors"];
 const player = document.querySelector(".player");
 const computer = document.querySelector(".computer");
-const playerSelection = document.querySelectorA("button");
+const playerSelection = document.querySelectorAll("button");
 
 //Initialize variables for points counter:
 //a = user, b = computer, and i = while loop counter.
